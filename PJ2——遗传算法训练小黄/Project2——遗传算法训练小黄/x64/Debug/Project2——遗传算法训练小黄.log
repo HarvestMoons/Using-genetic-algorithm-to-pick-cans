@@ -1,0 +1,8 @@
+﻿  function.cpp
+D:\code\Project2——遗传算法训练小黄\Project2——遗传算法训练小黄\function.h(14,1): warning C4005: “YELLOW”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(59): message : 参见“YELLOW”的前一个定义
+  main.cpp
+D:\code\Project2——遗传算法训练小黄\Project2——遗传算法训练小黄\function.h(14,1): warning C4005: “YELLOW”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(59): message : 参见“YELLOW”的前一个定义
+D:\code\Project2——遗传算法训练小黄\Project2——遗传算法训练小黄\main.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project2——遗传算法训练小黄.vcxproj -> D:\code\Project2——遗传算法训练小黄\x64\Debug\Project2——遗传算法训练小黄.exe
